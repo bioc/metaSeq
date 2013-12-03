@@ -2,5 +2,7 @@ BreastCancer
 Result.Meta
 StudyA
 pvals
-text.busca
-text.n.menor
+text.busca_unix
+text.busca_win
+text.n.menor_unix
+text.n.menor_win
